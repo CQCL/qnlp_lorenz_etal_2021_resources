@@ -8,7 +8,7 @@ This repository holds the code and the datasets for the paper:
 
 ## Code requirements
 
-For running the code, you will need Python 3.7. Further, the following packages must also be installed:
+For running the code, you will need Python 3.x. Further, the following packages must also be installed:
 
 * `discopy` (v0.3.4)
 * `pytket` (v0.7.2)
