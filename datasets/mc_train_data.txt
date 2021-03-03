@@ -1,0 +1,70 @@
+1  skillful_ADJ man_N prepares_TV sauce_N
+1  skillful_ADJ man_N bakes_TV dinner_N
+1  woman_N cooks_TV tasty_ADJ meal_N
+1  man_N prepares_TV meal_N
+0  skillful_ADJ woman_N debugs_TV program_N
+1  woman_N prepares_TV tasty_ADJ meal_N
+0  person_N runs_TV program_N
+0  person_N runs_TV useful_ADJ application_N
+1  woman_N prepares_TV sauce_N
+1  woman_N prepares_TV dinner_N
+1  skillful_ADJ person_N prepares_TV meal_N
+1  skillful_ADJ person_N bakes_TV dinner_N
+1  skillful_ADJ woman_N bakes_TV meal_N
+0  woman_N runs_TV useful_ADJ application_N
+1  man_N bakes_TV tasty_ADJ meal_N
+1  person_N prepares_TV tasty_ADJ meal_N
+0  woman_N runs_TV application_N
+0  man_N prepares_TV software_N
+1  man_N bakes_TV tasty_ADJ dinner_N
+0  person_N prepares_TV useful_ADJ program_N
+0  man_N debugs_TV useful_ADJ application_N
+0  person_N debugs_TV useful_ADJ application_N
+0  woman_N prepares_TV program_N
+0  man_N prepares_TV useful_ADJ application_N
+1  skillful_ADJ man_N cooks_TV dinner_N
+0  man_N debugs_TV useful_ADJ software_N
+1  person_N cooks_TV dinner_N
+1  skillful_ADJ woman_N prepares_TV meal_N
+0  man_N prepares_TV application_N
+0  person_N debugs_TV useful_ADJ software_N
+0  person_N runs_TV application_N
+1  skillful_ADJ woman_N bakes_TV sauce_N
+1  skillful_ADJ man_N bakes_TV meal_N
+1  woman_N cooks_TV meal_N
+1  woman_N bakes_TV dinner_N
+0  woman_N runs_TV program_N
+0  skillful_ADJ man_N prepares_TV program_N
+1  skillful_ADJ man_N cooks_TV meal_N
+0  woman_N runs_TV software_N
+0  skillful_ADJ man_N debugs_TV software_N
+1  man_N cooks_TV dinner_N
+1  woman_N cooks_TV tasty_ADJ dinner_N
+1  woman_N cooks_TV dinner_N
+1  man_N bakes_TV tasty_ADJ sauce_N
+1  man_N prepares_TV dinner_N
+1  skillful_ADJ person_N cooks_TV sauce_N
+0  skillful_ADJ man_N prepares_TV software_N
+0  person_N prepares_TV software_N
+0  person_N runs_TV software_N
+1  person_N prepares_TV tasty_ADJ sauce_N
+1  skillful_ADJ person_N bakes_TV sauce_N
+1  skillful_ADJ man_N cooks_TV sauce_N
+0  man_N debugs_TV program_N
+1  woman_N bakes_TV tasty_ADJ meal_N
+0  man_N runs_TV software_N
+0  person_N prepares_TV useful_ADJ application_N
+1  person_N cooks_TV meal_N
+0  woman_N debugs_TV software_N
+0  skillful_ADJ man_N runs_TV software_N
+1  person_N bakes_TV tasty_ADJ sauce_N
+0  woman_N debugs_TV application_N
+1  person_N bakes_TV dinner_N
+0  woman_N debugs_TV useful_ADJ program_N
+1  man_N cooks_TV tasty_ADJ meal_N
+1  skillful_ADJ person_N cooks_TV meal_N
+1  person_N cooks_TV sauce_N
+1  man_N cooks_TV tasty_ADJ sauce_N
+0  skillful_ADJ woman_N runs_TV program_N
+1  skillful_ADJ person_N bakes_TV meal_N
+0  person_N runs_TV useful_ADJ program_N
