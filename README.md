@@ -17,11 +17,13 @@ For running the code, you will need Python 3.7 or later. Further, the following 
 
 ## Instructions
 
-The two notebooks `mc_task.ipynb` and `rp_task.ipynb`, in the folder `code` show, in an exemplary way, the implementation of the pipeline for the two binary classification tasks, MC and RP, respectively. See Sec. 5 of the paper for the general pipeline, Sec. 6 for a description of the tasks and Sec. 7 for an explanation of this implementation in the notebooks, specifically Sec. 7.4 for the implementation of the quantum runs in these two notebooks. The analogous implementation of the classcial simulations for the MC and RP task as described in Sec. 7.3 of the paper can be found in the two notebooks `mc_task_simulation.ipynb` and `rp_task_simulation.ipynb`, respectively. 
+The two notebooks `mc_task.ipynb` and `rp_task.ipynb`, in the folder `code` show, in an exemplary way, the implementation of the pipeline for the two binary classification tasks, MC and RP, respectively. See Sec. 5 of the paper for the general pipeline, Sec. 6 for a description of the tasks and Sec. 7 for an explanation of this implementation in the notebooks, specifically Sec. 7.4 for the implementation of the quantum runs in these two notebooks. The analogous implementations of the classcial simulations for the MC and RP task as described in Sec. 7.3 of the paper can be found in the two notebooks `mc_task_simulation.ipynb` and `rp_task_simulation.ipynb`, respectively. 
 
 The folder `datasets` contains the raw data (train, dev and test subsets, respectively) as `txt` files, which are the input read by the notebooks.
 
 In all 4 mentioned notebooks any settings one may want to alter as part of the implementation, such as the choice of 'ansatz', are all done in the first cell as explained therein. For the two notebooks `mc_task.ipynb` and `rp_task.ipynb` concerning the quantum runs the first cell in addition allows to choose the hardware on which to run the computation. Note that by default `backend = AerBackend()` envokes a simulator provided through `pytket`, which does not require any IBMQ account. Provided access to an IBMQ account, the user may use the corresponding commented-out lines in the first cell to set the backend to a device-specific one instead. This may be through `IBMQEmulatorBackend(<backend_name>, <credentials>)`, which provides a simulator that has a device-specific noise model, or through `IBMQBackend(<backend_name>, <credentials>)`, in order to compute on actual IBM quantum hardware of one's choice. 
+
+Finally, running the notebook `mc_task_simulation.ipynb` or `rp_task_simulation.ipynb` requires making `discopy` compatible with `jax` by setting `IMPORT_JAX = True` in discopy's `config.py`. 
 
 ## Remarks
 
