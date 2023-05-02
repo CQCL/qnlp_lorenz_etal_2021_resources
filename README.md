@@ -39,4 +39,5 @@ For further help see:
 * for `discopy`: https://discopy.readthedocs.io/en/main/index.html
 * for `pytket`: https://cqcl.github.io/pytket/build/html/index.html
 * for `qiskit`: https://qiskit.org/documentation/
+* for `lambeq`: https://cqcl.github.io/lambeq/index.html
 
