@@ -1,8 +1,8 @@
-# Code and resources for Lorenz et al. (2021) QNLP paper
+# Code and resources for Lorenz et al. "QNLP in Practice" paper
 
 This repository holds the code and the datasets for the paper:
 
-- Lorenz, Pearson, Meichanetzidis, Kartsaklis, Coecke (2021). *QNLP in Practice: Running Compositional Models of Meaning on a Quantum Computer*, [arXiv:2102.12846 \[cs.CL\]](https://arxiv.org/abs/2102.12846)
+- Lorenz, Pearson, Meichanetzidis, Kartsaklis, Coecke (2023). *QNLP in Practice: Running Compositional Models of Meaning on a Quantum Computer*, Journal of Artificial Intelligence Research, Vol. 76 [\[pdf\]](https://dl.acm.org/doi/pdf/10.1613/jair.1.14329)
 
 The paper presents results on the first  NLP experiments conducted on Noisy Intermediate-Scale Quantum (NISQ) computers for datasets of size >= 100 sentences. Exploiting the formal similarity of the compositional model of meaning by Coecke et al. (2010) with quantum theory, we create representations for sentences that have a natural mapping to quantum circuits. We use these representations to implement and successfully train two NLP models that solve simple sentence classification tasks on quantum hardware. We describe in detail the main principles, the process and challenges of these experiments, in a way accessible to NLP researchers, thus paving the way for practical Quantum Natural Language Processing.
 
