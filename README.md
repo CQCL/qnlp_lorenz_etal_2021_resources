@@ -16,7 +16,7 @@ For running the code, you will need Python 3.7 or later. Further, the following 
 * `discopy` (v0.3.5)
 * `pytket` (v0.10.1)
 * `qiskit`  (v0.25.4)
-
+* `pytket-qiskit`
 
 ## Instructions
 
